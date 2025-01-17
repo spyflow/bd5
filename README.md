@@ -60,15 +60,15 @@ Main function that handles user interaction. It allows the user to choose the ar
 ### Example of execution:
 
 ```bash
-Enter the artist name: Queen
-How many songs do you want to download (Default: 5): 
-Manual or automatic mode (m/a, Default: a): 
-Searching for Queen songs on YouTube...
-6 videos were found.
-Title: Bohemian Rhapsody - Queen
-Listen: https://www.youtube.com/watch?v=12345
-Download this song (y/n): s
-Downloading: Bohemian Rhapsody - Queen...
+Ingresa el nombre del artista: Queen
+¿Cuántas canciones deseas descargar? (Predeterminado: 5): 
+¿Modo manual o automático? (m/a, Predeterminado: a): 
+Buscando canciones de Queen en YouTube...
+Se encontraron 6 videos.
+Título: Bohemian Rhapsody - Queen
+Escuchar: https://www.youtube.com/watch?v=12345
+¿Descargar esta canción? (s/n): s
+Descargando: Bohemian Rhapsody - Queen...
 ```
 
 ### Options
